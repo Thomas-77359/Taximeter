@@ -4,4 +4,4 @@ Exec=python3 /home/thomas/Documents/Arbeitsplatz/Zeiterfassung/Taximeter/Project
 Icon=/home/thomas/Documents/Arbeitsplatz/Zeiterfassung/Taximeter/taximeterIcon.jpeg
 Name=TaximeterV1
 Terminal=false
-Type=Application
+Type=Application 
