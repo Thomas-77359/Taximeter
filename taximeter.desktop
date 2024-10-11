@@ -1,0 +1,7 @@
+[Desktop Entry]
+Path=/home/thomas/Documents/Arbeitsplatz/Zeiterfassung/Taximeter
+Exec=python3 /home/thomas/Documents/Arbeitsplatz/Zeiterfassung/Taximeter/ProjectTaximeterV1.pyw
+Icon=/home/thomas/Documents/Arbeitsplatz/Zeiterfassung/Taximeter/taximeterIcon.jpeg
+Name=TaximeterV1
+Terminal=false
+Type=Application
